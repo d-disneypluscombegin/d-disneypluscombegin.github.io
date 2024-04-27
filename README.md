@@ -1,6 +1,6 @@
 # Disneyplus.com/begin 
 
-[![Disneyplus.com/begin](get-started-now-button.png)](http://dis.amdonline.site/)
+[![Disneyplus.com/begin](get-started-now-button.png)](https://dis.activateprod.online/)
 
 [Disneyplus.com/begin](https://d-disneypluscombegin.github.io/) - despite its entry into the video streaming niche in 2019, already made a name for itself as preferred by Disney, Pixar, Lucasfilm, or Marvel brand fans. You might be one of them, yet don’t get carried away by the flow as Disney Plus is still in its infancy.
 
